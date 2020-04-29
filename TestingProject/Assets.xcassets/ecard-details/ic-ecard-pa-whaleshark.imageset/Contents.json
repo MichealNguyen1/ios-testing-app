@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ic-ecard-pa-whaleshark.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ic-ecard-pa-whaleshark@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ic-ecard-pa-whaleshark@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
